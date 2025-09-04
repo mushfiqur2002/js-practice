@@ -1,3 +1,6 @@
+// ** topic 02 ** //
+
+
 // Arithmetic Operators + - * / % (modulas) ** (exponentiation)
 console.log('5 + 2 = ', 5 + 2);
 console.log('5 - 2 = ', 5 - 2);

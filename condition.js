@@ -1,3 +1,5 @@
+// ** topic 06 ** //
+
 // 1. if 2. if else 3. switch case
 
 let a = 5;

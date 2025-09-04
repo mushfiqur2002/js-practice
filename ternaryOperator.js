@@ -1,3 +1,5 @@
+// ** topic 04 ** //
+
 let number = 10;
                                 //true : false
 let result = number % 2 === 0 ? 'even' : 'odd';

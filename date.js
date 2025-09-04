@@ -1,3 +1,5 @@
+// ** topic 07 ** //
+
 let date = new Date();
 console.log(date.toString());
 console.log(date.toTimeString());
