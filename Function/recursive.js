@@ -6,4 +6,5 @@ function sayHI(n) {
     sayHI(n - 1);
 }
 console.log(sayHI(10));
+console.log(sayHI(10));
   
