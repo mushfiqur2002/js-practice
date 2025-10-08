@@ -5,6 +5,7 @@ function add(a) {
         }
     }
 }
+console.log('hello');
 
 function addHudai(a, b, c) {
     return a + b + c;
